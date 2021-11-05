@@ -1,7 +1,7 @@
 <h1>VK Bot that return you FaceIT account stats by nickname</h1>
 <p>1.Install requirements.<br>
-   2.In .env file set your own tokens and VK groud id.<br>
-   3.Then open bot.py</p>
+   2.In config.ini set your own tokens and VK groud id.<br>
+   3.Then open bot.py in terminal</p>
 <h1>How to get FaceIT token?</h1>
 <p>Go to <a href="https://developers.faceit.com/apps">this</a> link and create new app</p>
 
